@@ -8,6 +8,8 @@ Independent board for the Ask chat. Not Kaspa core. Not an audit. Not an oracle.
 
 **Does not write** [STP-KAS/kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file). That file stays Build's encyclopedia. The challenger keeps [kaspa-master-bot-build-challenge](https://github.com/STP-KAS/kaspa-master-bot-build-challenge). This repo is the third mind.
 
+Pass notes and the conclusion: [CONCLUSIONS.md](CONCLUSIONS.md).
+
 Read on 1 Oct 2026, Europe/Brussels, against master tip `928afb45` and the 08:37 snapshot row. If this file and the Now board disagree, the disagreement is listed below. It is not silently rounded.
 
 ## Team of four
